@@ -1,1 +1,1 @@
-# fitsync-capstone
+# fitsync-project-capstone
